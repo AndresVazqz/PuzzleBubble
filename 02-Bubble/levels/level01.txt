@@ -1,0 +1,9 @@
+TILEMAP
+8 4							-- Size of tile map in tiles
+32 32 							-- Tile size & block size
+images/bobbles.png 	-- Tilesheet
+1 8 								-- Number of tiles in tilesheet
+33445511
+3344551 
+11553344
+1553344 
